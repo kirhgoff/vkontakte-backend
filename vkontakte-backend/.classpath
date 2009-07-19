@@ -9,5 +9,6 @@
 	<classpathentry kind="lib" path="war/WEB-INF/lib/asm-commons-2.2.3.jar"/>
 	<classpathentry kind="lib" path="war/WEB-INF/lib/json-0.17.jar"/>
 	<classpathentry kind="lib" path="lib/args4j-2.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpunit.jar" sourcepath="C:/DevTools/httpunit-1.7/src"/>
 	<classpathentry kind="output" path="war/WEB-INF/classes"/>
 </classpath>
