@@ -1,0 +1,1 @@
+java -cp ../lib/args4j-2.0.1.jar;../classes org.gpmedia.vkontakte.client.VkontakteBackendTestClient %1
