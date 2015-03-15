@@ -1,0 +1,1 @@
+This is the project to backend vkontakte based flash applications
